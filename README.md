@@ -10,6 +10,10 @@ Before using this script, you must first replace the value of my_token with a
 Personal access token. This was added so that the user doesn't hit the max
 capacity of the rate limiter for unauthenticated Github API requests.
 
+The second step in the setup is to run
+`npm install`
+to install the necessary packages.
+
 Run Scripts:
 
 (Javascript script)
